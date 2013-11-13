@@ -8,3 +8,5 @@ Some Article
 ============
 
 This is some documentation article.
+
+This is an update to this article.
