@@ -1,3 +1,8 @@
+---
+slug: readme
+publish: false
+---
+
 docs-testing
 ============
 
