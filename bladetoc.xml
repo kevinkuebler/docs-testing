@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Contents>
+    <Section Title="Getting Started" URL="getting-started" />
+    <Section Title="Tips and Tricks" URL="tips-and-tricks">
+        <Section Title="Tips for SEO" URL="tips-for-seo" />
+        <Section Title="Caching" URL="caching" />
+    </Section>
+</Contents>
