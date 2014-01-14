@@ -30,8 +30,7 @@ The __RadRichTextBox__ exposes methods that change the style of the selected tex
           respective style is applied to the selected text. If there is no selection available, the style is applied to the word in which the caret is located.
         
 
->RadRichTextBox provides a fully functional formatting UI out of the box. To learn more about it read the
-            [RadRichTextBoxRibbonUI]({{slug:radrichtextbox-features-radrichtextboxribbonui}}) topic.
+>RadRichTextBox provides a fully functional formatting UI out of the box. To learn more about it read the topic.
           
 
 Here is an example of a toggle button that upon checking should make the selection or the current word bold. In the handler of the
