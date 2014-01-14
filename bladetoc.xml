@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Contents>
-    <Section Title="Getting Started" URL="getting-started" />
-    <Section Title="Tips and Tricks" URL="tips-and-tricks">
-        <Section Title="Tips for SEO" URL="tips-for-seo" />
-        <Section Title="Caching" URL="caching" />
+    <Section Title="How doth I do" URL="how-to" />
+    <Section Title="Folder the First" URL="folder-one">
+        <Section Title="Dos" URL="folder-two">
+            <Section Title="San" URL="folder-three">
+                <Section Title="Vier" URL="folder-four" />
+            </Section>
+        </Section>
     </Section>
 </Contents>
