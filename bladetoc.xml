@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Contents>
     <Section Title="How doth I do" URL="how-to" />
+    <Section Title="Same Sub 1" URL="same-subfolder-1">
+        <Section Title="Equality 1" URL="equality" />
+        <Section Title="Foo" URL="foo" />
+    </Section>
+    <Section Title="Same Sub 2" URL="same-subfolder-2">
+        <Section Title="Bar" URL="bar" />
+        <Section Title="Equality 2" URL="equality" />
+    </Section>
     <Section Title="Folder the First" URL="folder-one">
         <Section Title="Dos" URL="folder-two">
             <Section Title="San" URL="folder-three">
