@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Contents>
-    <Section Title="How doth I do" URL="how-to" />
+    <Section Title="How doth {{the}} I do" URL="how-to" />
     <Section Title="Same Sub 1" URL="same-subfolder-1">
         <Section Title="Equality 1" URL="equality" />
         <Section Title="Foo" URL="foo" />
