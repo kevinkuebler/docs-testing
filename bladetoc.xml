@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Contents>
     <Article Slug="i-should-be-the-replace-me-slug" Title="Me Should Be Replace" URL='ReplaceMe' />
-    <Article Slug="some-article-slug-woot" TItle="Some Article (title TOC)" URL="some-article" />
+    <Article Slug="some-article-slug-woot" Title="Some Article (title TOC)" URL="some-article" />
     <Section Title="How doth {{the}} I do" URL="how-to" />
     <Section Title="Same Sub 1" URL="same-subfolder-1">
         <Section Title="Equality 1" URL="equality" />
