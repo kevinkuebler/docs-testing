@@ -10,4 +10,4 @@ This is an image of a mantis:
 
 This is confidential:
 
-![Image Two](another-image-folder/an-image.png)
+![Image Two](another-image.net-folder/an-image.png)
