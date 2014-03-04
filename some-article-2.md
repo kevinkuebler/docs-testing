@@ -1,10 +1,10 @@
 ---
-title: Some Article
+title: Article Two
 slug: slug-of-some-article
 publish: true
 ---
 
-Some Article
+Two Article
 ============
 
 This article has a duplicate slug!
