@@ -8,3 +8,5 @@ Third Article
 ============
 
 This is the third article.
+
+Here's a link to what Analytics is: {{slug:what-is-analytics}} Give it a looksee.
