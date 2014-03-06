@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Contents>
     <Article Slug="i-should-be-the-replace-me-slug" Title="Me Should Be Replace" URL="ReplaceMe" />
-    <Article Slug="some-article-slug-woot" Title="Some Article (TOC Secret Update)" URL="some-article" />
+    <Article Slug="some-article-slug-woot" Title="Some Article (Combinatorics)" URL="some-article" />
     <Section Title="How doth {{the}} I do" URL="how-to" />
     <Article Slug="site-snip-bug-me-doodah" Title="Snippet Bug Example" URL="SiteSnippetBugExample" />
     <Section Title="Same Sub 1" URL="same-subfolder-1">
@@ -19,4 +19,4 @@
             </Section>
         </Section>
     </Section>
-</Contents> 
+</Contents>
