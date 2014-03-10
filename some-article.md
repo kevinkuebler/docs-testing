@@ -1,6 +1,7 @@
 ---
-title: Some Article
+title: Some Changed Article
 slug: slug-of-some-article
+tags: new-tag-here
 publish: true
 ---
 
