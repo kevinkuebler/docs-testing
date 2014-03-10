@@ -1,6 +1,7 @@
 ---
 title: Images
 slug: i-have-iamges
+tags: show-image, winner
 publish: True
 ---
 
