@@ -1,15 +1,15 @@
 <TextReplacements>
 	<Replace key="ab" value="AppBuilder" />
-	<Replace key="mt" value="Mobile Testing" ServiceUrl="http://telerik.com/mobiletesting" />
-	<Replace key="eq-plugin" value="Telerik Analytics" ServiceUrl="" />
-	<Replace key="mt-plugin" value="Telerik Mobile Testing" ServiceUrl="" />
-	<Replace key="tp-template" value="AppBuilder Friends" ServiceUrl="" />
-	<Replace key="kdv" value="Kendo UI DataViz" ServiceUrl="" />
-	<Replace key="jq" value="jQuery Mobile" ServiceUrl="" />
-	<Replace key="eq" value="Analytics" ServiceUrl="" />
-	<Replace key="bs" value="Backend Services" ServiceUrl="" />
-	<Replace key="km" value="Kendo UI Mobile" ServiceUrl="" />
-	<Replace key="ac" value="Apache Cordova" ServiceUrl="" />
-	<Replace key="tp" value="Telerik Platform" ServiceUrl="" />
-	<Replace key="fizz" value="buzz" ServiceUrl="" />
+	<Replace key="mt" value="Mobile Testing" serviceUrl="http://telerik.com/mobiletesting" />
+	<Replace key="eq-plugin" value="Telerik Analytics" />
+	<Replace key="mt-plugin" value="Telerik Mobile Testing" />
+	<Replace key="tp-template" value="AppBuilder and Friends!" />
+	<Replace key="kdv" value="Kendo UI DataViz" />
+	<Replace key="jq" value="jQuery Mobile" />
+	<Replace key="eq" value="Analytics aka Eqatec" />
+	<Replace key="bs" value="Backend Services formerly known as Everlive" ServiceUrl="http://platform.telerik.com/everlive" />
+	<Replace key="km" value="Kendo UI Mobile" />
+	<Replace key="ac" value="Apache Cordova" />
+	<Replace key="tp" value="Telerik Platform" />
+	<Replace key="herp" value="derp" ServiceUrl="http://herpty.derpty.net" />
 </TextReplacements>
