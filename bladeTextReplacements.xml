@@ -1,5 +1,15 @@
 <TextReplacements>
-	<Replace key="ab" value="AppBuilder aka Icenium" />
-	<Replace key="foo" value="bar" />
-	<Replace key="mt" value="Mobile Testing FTW!" ServiceUrl="http://telerik.com/mobiletesting" />
+	<Replace key="ab" value="AppBuilder" />
+	<Replace key="mt" value="Mobile Testing" ServiceUrl="http://telerik.com/mobiletesting" />
+	<Replace key="eq-plugin" value="Telerik Analytics" ServiceUrl="" />
+	<Replace key="mt-plugin" value="Telerik Mobile Testing" ServiceUrl="" />
+	<Replace key="tp-template" value="AppBuilder Friends" ServiceUrl="" />
+	<Replace key="kdv" value="Kendo UI DataViz" ServiceUrl="" />
+	<Replace key="jq" value="jQuery Mobile" ServiceUrl="" />
+	<Replace key="eq" value="Analytics" ServiceUrl="" />
+	<Replace key="bs" value="Backend Services" ServiceUrl="" />
+	<Replace key="km" value="Kendo UI Mobile" ServiceUrl="" />
+	<Replace key="ac" value="Apache Cordova" ServiceUrl="" />
+	<Replace key="tp" value="Telerik Platform" ServiceUrl="" />
+	<Replace key="fizz" value="buzz" ServiceUrl="" />
 </TextReplacements>
