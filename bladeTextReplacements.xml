@@ -1,0 +1,5 @@
+<TextReplacements>
+	<Replace key="ab" value="AppBuilder aka Icenium" />
+	<Replace key="foo" value="bar" />
+	<Replace key="mt" value="Mobile Testing FTW!" ServiceUrl="http://telerik.com/mobiletesting" />
+</TextReplacements>
