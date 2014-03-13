@@ -3,13 +3,13 @@
 	<Replace key="mt" value="Mobile Testing" serviceUrl="http://telerik.com/mobiletesting" />
 	<Replace key="eq-plugin" value="Telerik Analytics" />
 	<Replace key="mt-plugin" value="Telerik Mobile Testing" />
-	<Replace key="tp-template" value="AppBuilder and Friends!" />
+	<Replace key="tp-template" value="AppBuilder and Friends! Now with more Windows Phone!" />
 	<Replace key="kdv" value="Kendo UI DataViz" />
 	<Replace key="jq" value="jQuery Mobile" />
 	<Replace key="eq" value="Analytics aka Eqatec" />
-	<Replace key="bs" value="Backend Services formerly known as Everlive" ServiceUrl="http://platform.telerik.com/everlive" />
+	<Replace key="bs" value="Backend Services aka Everlive" serviceUrl="http://platform.telerik.com/everlive" />
 	<Replace key="km" value="Kendo UI Mobile" />
 	<Replace key="ac" value="Apache Cordova" />
 	<Replace key="tp" value="Telerik Platform" />
-	<Replace key="herp" value="derp" ServiceUrl="http://herpty.derpty.net" />
+	<Replace key="herp" value="derp" serviceUrl="http://herpty.derpty.net" />
 </TextReplacements>
